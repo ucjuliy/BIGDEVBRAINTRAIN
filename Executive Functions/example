@@ -1,1 +1,5 @@
-##dddd
+##Derive NEWMASTER.dta from running preprocessing for all EF tasks and combining all indices (PYTHON). 
+
+##Then run variable creation script to remove outliers and create variables of interest (STATA).
+
+## Run main factor analysis (R) 
