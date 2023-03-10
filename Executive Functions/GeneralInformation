@@ -3,3 +3,4 @@
 ##Then run variable creation script to remove outliers and create variables of interest (STATA).
 
 ## Run main factor analysis (R) 
+ ## Three relevant scripts : One T0 EF Factor Analysis, Factor Analysis for Error and RT (from 2 separate csv files) 
