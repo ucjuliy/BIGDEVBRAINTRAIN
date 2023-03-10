@@ -1,6 +1,6 @@
 ##PREPROCESSING Information 
 
-##Using scripts then I have combined data into a big dataset called FINALEF_PREPROCESSED.csv and in STATA format 
+##Using scripts then I have combined data into a big dataset called NEWMASTER in STATA format 
 
 
 ##Note: this data has outliers excluded on a trial level but NOT across individuals. Look at STATA note file named - EF_Variable_Creation_and_OutlierExclusion
