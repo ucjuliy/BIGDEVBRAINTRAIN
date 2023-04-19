@@ -1,0 +1,13 @@
+####Parameters have been extracted for each brain domain######
+####task-based fmri###
+Mars bar gui used to extract rIFG - file where both t0 and t1 used 
+
+###resting-state###
+
+###cortical-thickness###
+Matlab file - 'FINALCORTICALTHICKNESSrIFG.mat' used to extract t0 and t1
+
+###DTI###
+IFL parameters used 
+
+
