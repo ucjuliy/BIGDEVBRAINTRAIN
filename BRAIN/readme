@@ -1,13 +1,48 @@
 ####Parameters have been extracted for each brain domain######
 ####task-based fmri###
-Mars bar gui used to extract rIFG - file where both t0 and t1 used 
+Folder: \\live.rd.ucl.ac.uk\ritd-ag-project-rd00oa-nstei84\ImagingData\converted\SSRT\T0\Analysis\TrialSuccess_0.3_2nd_partitionederror
+Change to t1 where necessary 
+Mars bar gui used to extract rIFG 
+When marsbar is open, for design - 'set design from file' choose your SPM file
+For data, 'Extract ROI data (full options) choose ROI mask (HarvardOxford-cortl-maxprob-thr25-1mm_10_IFG_R)
+Full file of ROIs: 
+where rIFG used for analysis
 
 ###resting-state###
+Full file of ROIs: 
+For the resting state, these are the networks available (have highlighted those that may be relevant): 
+      -DMN: default mode network
+      -VIS: visual network
+      - FPN: frontoparietal network
+      - DAN: dorsal attention network
+      - VAN: ventral attention network
+      - SAL: salience network
+      - CON: cingulo-opercular network
+      - MOT: motor network
+      - AUD: auditory network
+      - MEM: parietal memory network
+      - CTXT: context network
+      - ORBF: orbitofrontal cortex
+      - HIPP: hippocampus
+      - AMYG: amygdala
+      - BG: basal ganglia
+      - THAL: thalamus
+      - CEREB: cerebellum
 
 ###cortical-thickness###
 Matlab file - 'FINALCORTICALTHICKNESSrIFG.mat' used to extract t0 and t1
 
 ###DTI###
-IFL parameters used 
+For the DTI, we have three possible measures we can use:
+
+FA – individual fractional anisotropy files for each participant
+MD – individual mean diffusivity files for each participant
+RD – individual radial diffusivity files for each participant
+
+For this, these are the tracts that are available for both right and left hemispheres: 
+
+UF – Uncinate fasciculus
+IFOF – inferior fronto-occipital fasciculus
+IFL - inferior longitudinal fasciculus
 
 
