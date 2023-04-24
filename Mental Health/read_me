@@ -1,0 +1,6 @@
+Readme file. 
+
+Factor analysis_new_KG.R creates factors of mental health and saves them as MENTALHEALTHFACTORS.csv
+
+where I stands for internalising problems
+      E stands for externalising problems
