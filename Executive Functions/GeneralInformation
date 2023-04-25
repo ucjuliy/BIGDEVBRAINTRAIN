@@ -1,6 +1,13 @@
 ##Derive NEWMASTER.dta from running preprocessing for all EF tasks and combining all indices (PYTHON). 
 
+NEWMASTER.dta is combined file of all EF indices. 
+
 ##Then run variable creation script to remove outliers and create variables of interest (STATA).
 
+From this, you can create variables and remove outlier. 
+
+For file with variables that have been created and outliers excluded see - EF_long.csv 
+
 ## Run main factor analysis (R) 
+For the purposes of factor analysis sometimes RE variable is used (basically inversely coded to represent better abilities to correspond with higher scores).
  ## Three relevant scripts : One T0 EF Factor Analysis, Factor Analysis for Error and RT (from 2 separate csv files) 
