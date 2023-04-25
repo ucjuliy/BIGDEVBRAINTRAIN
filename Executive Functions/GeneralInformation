@@ -1,3 +1,11 @@
+Quick info: If you're looking to use EF data, use EF_long.csv which contains variables for each task 
+   
+            If you're looking to use EF FACTOR data, use NEWTHREEFACTOR_t0.csv where I = inhibition, S = shifting, M = memory 
+            where increasing scores of M and I/decreasing scores of S correspond to better abilities. 
+
+
+################DETAILED INFO##################
+
 ##Derive NEWMASTER.dta from running preprocessing for all EF tasks and combining all indices (PYTHON). 
 
 NEWMASTER.dta is combined file of all EF indices. 
@@ -8,6 +16,14 @@ From this, you can create variables and remove outlier.
 
 For file with variables that have been created and outliers excluded see - EF_long.csv 
 
+General imputation file: imputation_full_data_ExecutiveFunctions.R 
+
 ## Run main factor analysis (R) 
 For the purposes of factor analysis sometimes RE variable is used (basically inversely coded to represent better abilities to correspond with higher scores).
+
  ## Three relevant scripts : One T0 EF Factor Analysis, Factor Analysis for Error and RT (from 2 separate csv files) 
+
+FINAL DATA FILES: 
+Factor data (t0/t1): 
+ For RT - RTFACTOR.csv
+ For error -  EF_2Factor.csv
