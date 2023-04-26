@@ -1,3 +1,6 @@
 files to look at improvements in training and motivation during training 
 
 Use motivation_for_niko.R for statistics on sessions and motivation. Get figure Motivation_NEWER.jpg with figure 
+
+
+Use mainstudy_trainingdata_script.R to get Regressions_training.jpg and stats on change within training. 
