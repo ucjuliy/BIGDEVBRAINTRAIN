@@ -1,0 +1,24 @@
+[1] "Percentage missing data for whole dataset"
+[1] 0.2539683
+[1] "Percentage missing data for CorticalThickness"
+[1] 0.2993197
+[1] "Percentage missing data for Rputa.frontal_FA"
+[1] 0.3469388
+[1] "Percentage missing data for Rputa.frontal_MD"
+[1] 0.3469388
+[1] "Percentage missing data for Rputa.frontal_RD"
+[1] 0.3503401
+[1] "Percentage missing data for Rcaud.frontal_FA"
+[1] 0.4591837
+[1] "Percentage missing data for Rcaud.frontal_MD"
+[1] 0.4591837
+[1] "Percentage missing data for Rcaud.frontal_RD"
+[1] 0.4591837
+[1] "Percentage missing data for HavardOxford_Cortl"
+[1] 0.5884354
+[1] "Percentage missing data for DMN"
+[1] 0.377551
+[1] "Percentage missing data for FPN"
+[1] 0.3741497
+[1] "Percentage missing data for CON"
+[1] 0.3809524
