@@ -1,0 +1,4 @@
+[1] "Percentage missing data for whole dataset"
+[1] 0.1333165
+[1] "Percentage missing data for academic_total_scores"
+[1] 0.6794355
