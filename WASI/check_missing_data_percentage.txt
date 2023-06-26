@@ -1,0 +1,4 @@
+[1] "Percentage missing data for whole dataset"
+[1] 0.1114729
+[1] "Percentage missing data for wasi"
+[1] 0.503006
