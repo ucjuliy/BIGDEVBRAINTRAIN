@@ -1,0 +1,223 @@
+"ID","Compatibility","accuracy_T0","AvgRT_T0","accuracy_T1","AvgRT_T1"
+101,"Compatible",0.9,640.35,1,508.7
+101,"Incompatible",0.95,681.3,0.9,537.778
+101,"No Flankers",0,0,0,0
+103,"Compatible",1,557.45,1,589.9
+103,"Incompatible",0.95,595.895,1,623.05
+103,"No Flankers",0,0,0,0
+104,"Compatible",0.95,534.8,1,564.05
+104,"Incompatible",0.85,570.75,0.9,538.35
+104,"No Flankers",0,0,0,0
+106,"Compatible",1,513.75,1,548.45
+106,"Incompatible",0.8,635.65,0.95,601.7
+106,"No Flankers",0,0,0,0
+108,"Compatible",0.9,527.85,0.9,624.632
+108,"Incompatible",0.95,530.9,0.8,669.105
+108,"No Flankers",0,0,0,0
+109,"Compatible",1,575.9,1,634.4
+109,"Incompatible",1,660.45,0.95,679.5
+109,"No Flankers",0,0,0,0
+110,"Compatible",0.95,611.15,1,512
+110,"Incompatible",1,661.85,0.9,548.15
+110,"No Flankers",0,0,0,0
+113,"Compatible",0.9,402.4,0.9,377
+113,"Incompatible",0.7,397.95,0.9,435.45
+113,"No Flankers",0,0,0,0
+114,"Compatible",0.95,528.75,0.95,813.35
+114,"Incompatible",0.85,490.895,1,674.85
+114,"No Flankers",0,0,0,0
+118,"Compatible",0.85,778.05,0.95,789.6
+118,"Incompatible",0.75,767.278,0.95,734.4
+118,"No Flankers",0,0,0,0
+119,"Compatible",0.65,680.556,0.8,629.412
+119,"Incompatible",0.7,758.684,0.8,532.389
+119,"No Flankers",0,0,0,0
+12,"Compatible",1,799.4,0.9,586.4
+12,"Incompatible",0.9,770.4,0.95,613.3
+12,"No Flankers",0,0,0,0
+120,"Compatible",0.9,556.15,0.9,572.15
+120,"Incompatible",0.65,560.737,0.75,543.15
+120,"No Flankers",0,0,0,0
+121,"Compatible",0.9,738.95,0.95,892.684
+121,"Incompatible",0.9,935.8,0.95,1289.85
+121,"No Flankers",0,0,0,0
+122,"Compatible",0.75,1669.211,0.95,605.579
+122,"Incompatible",0.4,2249.375,0.95,668.55
+122,"No Flankers",0,0,0,0
+123,"Compatible",1,568.1,0.95,595.158
+123,"Incompatible",0.95,616.263,1,591.95
+123,"No Flankers",0,0,0,0
+128,"Compatible",0.65,510.579,0.9,601.55
+128,"Incompatible",0.6,531.222,0.95,683.65
+128,"No Flankers",0,0,0,0
+130,"Compatible",1,958.05,1,721.2
+130,"Incompatible",0.95,1029.25,0.95,726.5
+130,"No Flankers",0,0,0,0
+132,"Compatible",0.95,471.7,0.95,348
+132,"Incompatible",0.9,470.5,0.85,402.421
+132,"No Flankers",0,0,0,0
+14,"Compatible",0.85,521.2,1,574.55
+14,"Incompatible",0.8,617.5,1,595.1
+14,"No Flankers",0,0,0,0
+15,"Compatible",0.95,562.4,0.95,493.45
+15,"Incompatible",0.8,581.65,0.85,520.2
+15,"No Flankers",0,0,0,0
+19,"Compatible",1,699.35,0.9,536.4
+19,"Incompatible",1,808.15,0.9,530.4
+19,"No Flankers",0,0,0,0
+2,"Compatible",0.95,564.263,0.95,440.65
+2,"Incompatible",0.95,547.7,0.95,549.1
+2,"No Flankers",0,0,0,0
+20,"Compatible",0.95,798.9,1,1192.15
+20,"Incompatible",0.8,940.778,0.95,1089.421
+20,"No Flankers",0,0,0,0
+21,"Compatible",1,605.45,0.9,663.3
+21,"Incompatible",1,700.4,0.9,621.111
+21,"No Flankers",0,0,0,0
+22,"Compatible",1,517.15,1,576.3
+22,"Incompatible",0.95,521.3,1,591.4
+22,"No Flankers",0,0,0,0
+25,"Compatible",0.9,691.211,0.75,638.737
+25,"Incompatible",0.3,670.765,0.4,732.063
+25,"No Flankers",0,0,0,0
+27,"Compatible",1,452.15,0.95,468.8
+27,"Incompatible",1,517.65,0.85,468.7
+27,"No Flankers",0,0,0,0
+29,"Compatible",1,785.05,1,834.45
+29,"Incompatible",0.95,799.8,1,630.5
+29,"No Flankers",0,0,0,0
+3,"Compatible",1,389.7,1,416.95
+3,"Incompatible",0.95,414.8,0.95,404.8
+3,"No Flankers",0,0,0,0
+30,"Compatible",0.95,572.5,1,470.95
+30,"Incompatible",1,648.1,0.95,500.35
+30,"No Flankers",0,0,0,0
+31,"Compatible",1,541.7,0.95,663.632
+31,"Incompatible",0.75,625.722,1,737.65
+31,"No Flankers",0,0,0,0
+32,"Compatible",0.75,2089.263,0.9,1111.632
+32,"Incompatible",0.85,1739.056,0.65,1365.118
+32,"No Flankers",0,0,0,0
+33,"Compatible",0.75,769.211,0.65,692.55
+33,"Incompatible",0.55,862.7,0.65,517.316
+33,"No Flankers",0,0,0,0
+34,"Compatible",0.85,717.1,0.95,700.737
+34,"Incompatible",1,742.15,0.95,711.211
+34,"No Flankers",0,0,0,0
+38,"Compatible",0.95,575.3,0.9,573.526
+38,"Incompatible",0.9,573.9,0.85,522.737
+38,"No Flankers",0,0,0,0
+39,"Compatible",1,553,0.9,416.85
+39,"Incompatible",1,654.95,1,509.95
+39,"No Flankers",0,0,0,0
+4,"Compatible",0.9,476.35,1,529.05
+4,"Incompatible",1,577.35,0.95,536.1
+4,"No Flankers",0,0,0,0
+40,"Compatible",0.95,645.65,1,750.95
+40,"Incompatible",0.85,613.7,1,838.7
+40,"No Flankers",0,0,0,0
+41,"Compatible",1,1116.45,1,823.5
+41,"Incompatible",1,1276.35,1,815.05
+41,"No Flankers",0,0,0,0
+45,"Compatible",1,946.25,0.95,539.95
+45,"Incompatible",0.6,1123.421,0.8,536.4
+45,"No Flankers",0,0,0,0
+46,"Compatible",0.9,572.895,0.75,657.579
+46,"Incompatible",1,532.9,0.8,535.3
+46,"No Flankers",0,0,0,0
+48,"Compatible",1,746.55,0.95,572.15
+48,"Incompatible",0.5,692.167,0.85,643.95
+48,"No Flankers",0,0,0,0
+5,"Compatible",0.9,854.3,0.95,637.3
+5,"Incompatible",0.9,1011.85,0.7,816.471
+5,"No Flankers",0,0,0,0
+53,"Compatible",1,775,1,617.75
+53,"Incompatible",1,758.5,0.95,697.9
+53,"No Flankers",0,0,0,0
+54,"Compatible",0.75,395.05,1,503.5
+54,"Incompatible",0.7,418.316,0.8,478.684
+54,"No Flankers",0,0,0,0
+58,"Compatible",0.85,605.4,0.95,686.05
+58,"Incompatible",0.6,636.625,0.95,990.895
+58,"No Flankers",0,0,0,0
+59,"Compatible",0.9,751.15,0.95,710.5
+59,"Incompatible",0.85,810,0.65,779.85
+59,"No Flankers",0,0,0,0
+6,"Compatible",0.85,583.15,0.95,457.737
+6,"Incompatible",0.8,534.85,0.75,475.9
+6,"No Flankers",0,0,0,0
+61,"Compatible",0.9,573.1,0.85,606.55
+61,"Incompatible",0.8,566.389,0.85,795
+61,"No Flankers",0,0,0,0
+62,"Compatible",1,616.4,1,616.4
+62,"Incompatible",0.9,527.75,0.9,527.75
+62,"No Flankers",0,0,0,0
+66,"Compatible",0.95,505,0.95,612.3
+66,"Incompatible",0.75,517.1,0.95,570.684
+66,"No Flankers",0,0,0,0
+67,"Compatible",0.9,487.65,0.8,625.5
+67,"Incompatible",0.65,509.368,0.85,622.25
+67,"No Flankers",0,0,0,0
+68,"Compatible",0.7,553.2,0.85,605.85
+68,"Incompatible",0.65,505.75,0.9,627.684
+68,"No Flankers",0,0,0,0
+7,"Compatible",0.85,2106.895,0.65,1079.111
+7,"Incompatible",0.9,2056.1,0.7,1197.737
+7,"No Flankers",0,0,0,0
+73,"Compatible",0.95,447.75,1,441.6
+73,"Incompatible",0.8,495.75,0.8,484.75
+73,"No Flankers",0,0,0,0
+74,"Compatible",0.9,621.5,0.85,968.105
+74,"Incompatible",1,598.45,0.8,1042.889
+74,"No Flankers",0,0,0,0
+78,"Compatible",0.75,500.55,0.95,411.95
+78,"Incompatible",0.75,426.4,0.8,427.2
+78,"No Flankers",0,0,0,0
+79,"Compatible",1,563.7,0.9,488.2
+79,"Incompatible",0.9,514.389,0.95,505.75
+79,"No Flankers",0,0,0,0
+81,"Compatible",0.9,595.45,0.85,528.85
+81,"Incompatible",0.65,703.722,0.85,525.15
+81,"No Flankers",0,0,0,0
+82,"Compatible",0.35,858.667,0.8,766.222
+82,"Incompatible",0.25,1092.5,0.45,762.688
+82,"No Flankers",0,0,0,0
+83,"Compatible",0.7,1700.875,0.85,1398.056
+83,"Incompatible",0.55,2023.438,0.75,1484.526
+83,"No Flankers",0,0,0,0
+85,"Compatible",0.85,589.05,0.55,361.842
+85,"Incompatible",0.65,554.7,0.6,369.316
+85,"No Flankers",0,0,0,0
+86,"Compatible",0.85,474.842,1,493
+86,"Incompatible",0.8,525.55,1,549.95
+86,"No Flankers",0,0,0,0
+88,"Compatible",1,672.4,0.95,482.85
+88,"Incompatible",1,675.85,0.85,495.368
+88,"No Flankers",0,0,0,0
+90,"Compatible",1,516.7,0.85,283.8
+90,"Incompatible",0.9,584.1,0.85,326.7
+90,"No Flankers",0,0,0,0
+91,"Compatible",1,1030.1,1,624.95
+91,"Incompatible",0.8,1068.167,1,757.85
+91,"No Flankers",0,0,0,0
+92,"Compatible",0.85,621.25,1,505.6
+92,"Incompatible",1,640.65,0.95,522.35
+92,"No Flankers",0,0,0,0
+93,"Compatible",1,615.85,1,586.05
+93,"Incompatible",1,646.75,1,656.6
+93,"No Flankers",0,0,0,0
+94,"Compatible",0.8,601.05,1,598.55
+94,"Compatible",1,598.55,1,598.55
+94,"Incompatible",0.8,628.611,0.85,680.15
+94,"Incompatible",0.85,680.15,0.85,680.15
+94,"No Flankers",0,0,0,0
+94,"No Flankers",0,0,0,0
+95,"Compatible",0.4,782.588,0.65,686.3
+95,"Incompatible",0.35,984.611,0.85,778.95
+95,"No Flankers",0,0,0,0
+96,"Compatible",0.8,624.7,0.95,663.9
+96,"Incompatible",1,687.95,0.95,735.55
+96,"No Flankers",0,0,0,0
+99,"Compatible",0.95,480.55,0.85,394.1
+99,"Incompatible",0.9,470.632,0.65,450.55
+99,"No Flankers",0,0,0,0
