@@ -22,5 +22,8 @@ File *raw_wasi.csv* contains raw data of wasi scores. File *imputed_wasi.csv* co
 
   
 For **Mental Health** and **Executive Function** related factor analysis:  
-Imputed factor variables can be found in files *MENTALHEALTHFACTORS.csv* under mental health folder and *EF_Factor_T0.csv* for three factors and *EF_2factor.csv* for two factors.  
+Imputed factor variables can be found in files *MENTALHEALTHFACTORS.csv* under mental health folder and *EF_Factor_T0.csv* for three factors and *EF_2factor.csv* for two factors.    
+  
+For **questionnaire** related measures, please see data dictionary where the raw questoinnaire data can be found. The current repository only contains AES, SDQ, parenting stress and perceived stress.   
+
 
