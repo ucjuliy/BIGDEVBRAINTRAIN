@@ -2,7 +2,7 @@
 
 **data overview**
 Data in each domain was computed seperatedly under each domain folder. Raw data can be found under file name raw_variablename.csv or raw_variablename.xlsx in each folder; imputed data can be found under file name imputed_variablename.csv in each folder. Code used to impute the data can be found under file name imputation_variablename.R. 
-
+  
 For example: 
 **Academic Performance**
 File *raw_academic_score.csv* contains raw data of academic score. File *imputed_academic_score* contains imputed academic performance data. File *imputation_academic_score.R* contains the code necessary for imputation. 
