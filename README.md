@@ -1,5 +1,6 @@
-**All imputed variables used in the training study can be found in file *Masterspreadsheet_AllVariables_long.csv* for long version and *Masterspreadsheet_AllVariables_wide.csv* for wide version under the main folder**  
-Training related data can be found in file *covariates_of_interest.csv*.
+**All imputed variables used in the training study (ready to use) can be found in file *Masterspreadsheet_AllVariables_long.csv* for long version and *Masterspreadsheet_AllVariables_wide.csv* for wide version under the main folder**  
+Training related data can be found in file *covariates_of_interest.csv*.  
+All imputed data listed in the file are listed in the folder **imputed_data_across_domains**.
 
 **Data Overview**  
 Data in each domain was computed seperatedly under each domain folder. Raw data can be found under file name *raw_variablename.csv* or *raw_variablename.xlsx* in each folder; imputed data can be found under file name *imputed_variablename.csv* in each folder. Code used to impute the data can be found under file name *imputation_variablename.R*. 
