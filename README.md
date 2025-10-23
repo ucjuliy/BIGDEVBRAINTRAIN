@@ -1,4 +1,4 @@
-**All imputed variables used in the training study can be found in file *Masterspreadsheet_AllVariables_long.csv* for long version and *Masterspreadsheet_AllVariables_wide.csv* for wide version under the main folder**
+**All imputed variables used in the training study can be found in file *Masterspreadsheet_AllVariables_long.csv* for long version and *Masterspreadsheet_AllVariables_wide.csv* for wide version under the main folder**  
 Training related data can be found in file *covariates_of_interest.csv*.
 
 **data overview**
