@@ -14,7 +14,7 @@ File *raw_creativity.csv* contains raw data of creativity. File *imputed_creativ
 **Decision Making**  
 File *raw_decision_making.csv* contains raw data of decision making related variables. File *imputed_decision_making.csv* contains imputed decision making related variables. File *imputation_decision_making.R* contains the code necessary for imputation.  
 **Executive Function**  
-Raw Executive Function has three files depending on the EF variables: *raw_EF_ERROR.csv*, *raw_EF_RT.csv*, *raw_EF_threetimepoints.csv*. Imputed data can be found under *imputed_EF_ERROR.csv*, *imputed_EF_RT.csv*, *imputed_EF_threetimepoints.csv*. File *imputation_executive_functions.R* contains the code necessary for imputation. 
+Raw Executive Function has three files depending on the EF variables: *raw_EF_ERROR.csv*, *raw_EF_RT.csv*, *raw_EF_threetimepoints.csv*. Imputed data can be found under *imputed_EF_ERROR.csv*, *imputed_EF_RT.csv*, *imputed_EF_threetimepoints.csv*. File *imputation_executive_functions.R* contains the code necessary for imputation.  
 In addition, for executive functions, factor analysis was also conduced on T0 variables and the results can be found in file *EF_Factor_T0.csv* for three factors and *EF_2factor.csv* for two factors.  
 **WASI**  
 File *raw_wasi.csv* contains raw data of wasi scores. File *imputed_wasi.csv* contains imputed wasi scores. File *imputation_wasi.R* contains the code necessary for imputation.  
