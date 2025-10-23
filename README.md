@@ -1,4 +1,4 @@
-**All imputed variables used in the training study can be found in file *imputed_data_master.csv* under the main folder**
+**All imputed variables used in the training study can be found in file *Masterspreadsheet_AllVariables.csv* under the main folder**
 
 **data overview**
 Data in each domain was computed seperatedly under each domain folder. Raw data can be found under file name *raw_variablename.csv* or *raw_variablename.xlsx* in each folder; imputed data can be found under file name *imputed_variablename.csv* in each folder. Code used to impute the data can be found under file name *imputation_variablename.R*. 
